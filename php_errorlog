@@ -1,0 +1,4 @@
+[23-Sep-2023 00:19:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_mail() in /home/customer/www/bloopsdesign.com/public_html/form-handler.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/bloopsdesign.com/public_html/form-handler.php on line 47

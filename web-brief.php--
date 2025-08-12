@@ -1,0 +1,240 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Website Brief</title>
+    <meta name="description" content="professional website development company">
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="icon" href="favicon_new.png" type="images/webp">
+    <link rel="stylesheet" type="text/css" href="css/plugin.css">
+   
+
+
+
+    <style type="text/css">
+      section.web-brief {
+          margin-top:50px
+      }
+      section.web-brief .cf_logo {
+          background: #4c4c4c;
+          text-align: center;
+          border-radius: 49px;
+          padding: 0px 5px 7px 5px;
+      }
+      h5.mt-5.subHeading.text-uppercase {
+          color: #00ade9;
+      }
+
+      h1.mt-4.hClr.underLine.brd-clr-2 {
+          font-size: 50px;
+          color: #000;
+          font-family: 'Ubuntu', sans-serif;
+          font-weight: bold;
+          padding-bottom: 0;
+      }
+      section.web-brief form {
+          margin-top: 40px;
+      }
+      section.web-brief form h5 {
+          color: black;
+          font-size: 25px;
+          font-weight: 700;
+      }
+      section.web-brief form button {
+          background: #00b7eb;
+          color: #fff;
+          border-radius: 0px;
+          margin-bottom: 40px;
+      }
+    </style>
+
+</head>
+
+<body>
+
+ <section class="web-brief" style="background-color: rgba(var(--main-bg-color), .015);color: rgba(var(--main-bg-color), .895);">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-12">
+          <div class="cf_logo"><img style="width: 400px"  src="https://bloopsdesign.com/images/logof_new.png" alt=""></div>
+          <h5 class=" mt-5 subHeading text-uppercase">Order Website design</h5>
+          <h1 class=" mt-4 hClr underLine brd-clr-2"><span>Get Ready</span><span> to</span><span> Revolutionize</span><br><span>Your Brand</span><span>Forever</span></h1>
+          <p class=" mt-4">Seeking exceptional design and development solutions? With our excellently crafted packages, we're here to transform your brand for the better.</p>
+
+
+
+          <form enctype="multipart/form-data" name="weborder" action="#" method="post">
+            <div class="">
+                <div class="row">
+
+                <div class="col-md-6 mb-3">
+                  <div class="form-group">
+                    <input type="text" autocomplete="off" class="form-control" placeholder="* Full Name" value="" name="name"  onfocus="this.placeholder = ''" onblur="this.placeholder = 'Full Name'" required="">
+                  </div>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                  <div class="form-group">
+                    <input type="email" autocomplete="off" class="form-control" placeholder="* Email" name="email" value="" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email'" required="">
+                  </div>
+                </div>
+      
+              </div>
+             
+              <div class="row mt-4">
+                <div class="col-lg-4">
+                  <label for="">
+                    Exact name of your business/organization: *
+                    <span class="initial"></span></label>
+                  </div>
+                  <div class="col-lg-8">
+                    <input type="text" class="form-control" placeholder="Your Business Name" required="" id="business_name" name="business_name">
+                  </div>
+                </div>
+
+
+                <div class="row mt-4">
+                  <div class="col-lg-4">
+                    <label for="">Kindly state the purpose of your website: (Is it a selling/informative website or a personal blog? etc.) *<span class="initial"></span></label>
+                  </div>
+                  <div class="col-lg-8">
+                    <textarea placeholder="Describe Here " name="purpose" required="" class="form-control" rows="5"></textarea>
+                  </div>
+                </div>
+                
+                
+                <div class="row mt-4">
+                  <div class="col-lg-4">
+                    <label for="">As per the navigation of your website, kindly state the title of your WebPages: (E.g.: Company Profile, Contact us etc.) *<span class="initial"></span></label>
+                  </div>
+                  <div class="col-lg-8">
+                    <textarea placeholder="Describe Here " name="navigation" required="" class="form-control" rows="5"></textarea>
+                  </div>
+                </div>
+                
+                
+                <div class="row mt-4">
+                  <div class="col-lg-4">
+                    <label for="">What type of overall feeling would you like to project with your new Website Domain? (Corporate, fun, high-tech, etc...) Leave this field blank if you would like us to make this determination. <span class="initial"></span></label>
+                  </div>
+                  <div class="col-lg-8">
+                    <textarea placeholder="Describe Here " name="feeling" class="form-control" rows="5"></textarea>
+                  </div>
+                </div>
+                
+                
+                
+                <div class="row mt-4">
+                  <div class="col-lg-4">
+                    <label for="">Please give a brief description of your business: (What type of products or services does your company supply? etc...) *<span class="initial"></span></label>
+                  </div>
+                  <div class="col-lg-8">
+                    <textarea placeholder="Describe Here " name="description" required="" class="form-control" rows="5"></textarea>
+                  </div>
+                </div>
+                
+                
+                
+                
+                
+                <div class="row mt-4">
+                  <div class="col-lg-4">
+                    <label for="">State the target audience of your website: <span class="initial"></span></label>
+                  </div>
+                  <div class="col-lg-8">
+                    <textarea placeholder="Describe Here " name="audience" class="form-control" rows="5"></textarea>
+                  </div>
+                </div>
+                
+                
+                
+                <div class="row mt-4">
+                  <div class="col-lg-4">
+                    <label for="">Do you have any specific design, preferences? If yes, please mention a reference: (If you have any particular likes or dislikes regarding any competitor's website etc.) *<span class="initial"></span></label>
+                  </div>
+                  <div class="col-lg-8">
+                    <textarea placeholder="Describe Here " name="design_specification" required="" class="form-control" rows="5"></textarea>
+                  </div>
+                </div>
+                
+                
+                
+                <div class="row mt-4">
+                  <div class="col-lg-4">
+                    <label for="">Do you have any additional comments? <span class="initial"></span></label>
+                  </div>
+                  <div class="col-lg-8">
+                    <textarea placeholder="Describe Here " name="comments" class="form-control" rows="5"></textarea>
+                  </div>
+                </div>
+                
+                
+                
+                
+                
+                <div class="row mt-5">
+                  <div class="col-12 mb-3">
+                  <h5>Domain and Web Hosting Details</h5>
+                  <strong>Please give us a few details about the domain name and hosting of the website. </strong>
+</div>
+                </div>
+                
+                <div class="row">
+                  <div class="col-md-6">
+                    <label for="">Do you have a Domain Name?: <span class="red font-size-20">*</span></label>
+                  </div>
+                  <div class="col-md-6">
+                    <input type="radio" name="domain" required="" value="Yes">
+                    <label class="display-inline-block" for="">Yes</label>
+                    <input type="radio" class="margin-left-two" name="domain" required="" value="No">
+                    <label class="display-inline-block" for="">No</label>
+                  </div>
+                </div>
+
+
+                <div class="row">
+                  <div class="col-md-6">
+                    <label for="">Do you want us to provide
+                      hosting for your website?: <span class="red font-size-20">*</span> </label>
+                    </div>
+                    <div class="col-md-6">
+                      <input type="radio" name="hosting" required="" value="Yes">
+                      <label class="display-inline-block" for="">Yes</label>
+                      <input type="radio" class="margin-left-two" name="hosting" required="" value="No">
+                      <label class="display-inline-block" for="">No</label>
+                    </div>
+                  </div>
+
+                  <div class="row" style="margin:20px 0;">
+                    <div class="row margin-bottom-five">
+                      <label class="display-inline-block" for=""><span class="mr-3" style="color: red;">Note : </span>We will send you a "Page under construction" template on your respective domain name, very soon. Meanwhile, our professional designers will be working on your custom website design. It will get uploaded as soon as you approve the final design.</label>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-12">
+                    <button type="submit" class="btn btn-1 p-3 px-5 " >Submit</button>
+
+                    </div>
+                  </div>
+
+
+
+                </div>
+
+
+              </form>
+
+            </div>
+
+
+          </form>
+
+        </div>
+      </div>
+    </div>
+  </section>
